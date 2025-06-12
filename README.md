@@ -23,3 +23,10 @@ The application takes user input through a web form and predicts the personality
 
 ## 📁 Project Structure
 
+├── flask1.py # Flask application
+├── knn_model.pkl # Trained ML model
+├── templates/
+│ └── index.html # Frontend form for input and output
+├── Extrovert_vs_Introvert.ipynb # Jupyter Notebook for model training
+└── README.md # Project documentation
+
